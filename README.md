@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+This is my work profile.
+If you'd like to see my personal profile, please visit: https://github.com/wtchu8
+
 <!--
 **chuwt1/chuwt1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
